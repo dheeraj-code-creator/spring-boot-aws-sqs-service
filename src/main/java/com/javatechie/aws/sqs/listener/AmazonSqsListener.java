@@ -10,6 +10,7 @@ public class AmazonSqsListener {
 
     Logger logger= LoggerFactory.getLogger(AmazonSqsListener.class);
 
+    // provide urs Queue url or queue name
     @SqsListener("https://sqs.us-east-1.amazonaws.com/365609404781/my-second-queue")
     public void loadMessageFromSQS(String message)  {
         logger.info("message from SQS Queue {}",message);
