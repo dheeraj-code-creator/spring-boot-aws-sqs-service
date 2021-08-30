@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAVKIAEZFWQBXJNDM6
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/365609404781/my-second-queue
