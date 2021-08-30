@@ -1,4 +1,4 @@
-package com.javatechie.aws.sqs.config;
+package com.example.aws.sqs.config;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;

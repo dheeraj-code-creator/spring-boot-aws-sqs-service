@@ -1,4 +1,4 @@
-package com.javatechie.aws.sqs.controller;
+package com.example.aws.sqs.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

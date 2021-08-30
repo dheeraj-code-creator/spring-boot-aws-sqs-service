@@ -1,4 +1,4 @@
-package com.javatechie.aws.sqs.listener;
+package com.example.aws.sqs.listener;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
