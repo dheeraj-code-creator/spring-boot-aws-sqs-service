@@ -4,7 +4,7 @@ cloud:
       static: us-east-1
       auto: false
     credentials:
-      access-key: ############ urs access key (generate through IAM user)
-      secret-key: ############ urs secret key #########
+      access-key: ###########
+      secret-key: #################
     end-point:
-      uri: ##########provide urs queue url###########
+      uri: https://sqs.us-east-1.amazonaws.com/365609404781/ec2-s3-sqs-queue

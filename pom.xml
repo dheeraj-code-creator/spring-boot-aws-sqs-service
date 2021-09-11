@@ -6,12 +6,12 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.3.1.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
-	<groupId>com.javatechie</groupId>
-	<artifactId>springboot-aws-sqs-exe</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>spring-boot-aws-sqs-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-aws-sqs-exe</name>
+	<name>spring-boot-aws-sqs-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
